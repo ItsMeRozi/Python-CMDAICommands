@@ -1,7 +1,5 @@
 # CMD Command Executor
 
-![CMD Command Executor](cmd_executor_screenshot.png)
-
 ## Overview
 A console-based program that leverages OpenAI's GPT-3.5-turbo model to generate and execute Windows CMD commands based on human language input. Easily interact with CMD using natural language, and let the AI handle the command execution.
 
